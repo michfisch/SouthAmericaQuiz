@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">South America Quiz</string>
+    <string name="title_quiz">The Great South America Quiz</string>
+    <string name="description_quiz">Test your knowledge on the southern cone and have fun!!</string>
+
+    <string name="question1_question">1. Which one is the largest country?</string>
+    <string name="question1_answer1">Brazil</string>
+    <string name="question1_answer2">Argentina</string>
+    <string name="question1_answer3">Bolivia</string>
+
+    <string name="question2_question">2. What is the capital of Colombia?</string>
+    <string name="question2_answer1">Medellin</string>
+    <string name="question2_answer2">Bogota</string>
+    <string name="question2_answer3">Cali</string>
+
+    <string name="question3_question">3. What is the official language of Brazil?</string>
+    <string name="question3_answer1">Spanish</string>
+    <string name="question3_answer2">Portuguese</string>
+    <string name="question3_answer3">English</string>
+
+    <string name="question4_question">4. What is the highest mountain of the Andes?</string>
+    <string name="question4_answer1">Chimborazo</string>
+    <string name="question4_answer2">Aconcagua</string>
+    <string name="question4_answer3">Fitz Roy</string>
+
+    <string name="question5_question">5. Which small country is surrounded by Argentina and Brazil?</string>
+    <string name="question5_answer1">Chile</string>
+    <string name="question5_answer2">Bolivia</string>
+    <string name="question5_answer3">Uruguay</string>
+
+    <string name="question6_question">Which countries are qualified for the 2018 Football World Cup in Russia?</string>
+    <string name="question6_answer1">Colombia</string>
+    <string name="question6_answer2">Argentina</string>
+    <string name="question6_answer3">Chile</string>
+
+    <string name="question7_question">7. What is the longest river in South America?</string>
+    <string name="question7_answer">Amazon</string>
+
+
+    <string name="button_submit">Submit</string>
+    <string name="button_reset">Reset</string>
+
+
+</resources>

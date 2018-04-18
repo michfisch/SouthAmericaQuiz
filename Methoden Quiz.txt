@@ -1,0 +1,16 @@
+Methoden Southamerica Quiz
+
+Methode check ob alle Fragen beantwortet
+
+	wenn ja, Ergebnis
+	wenn nicht, Nachricht "alles ausfüllen"
+
+Methode Berechnung Ergebnis
+
+	für jede richtig beantwortete frage ein punkt addieren
+
+Methode submit button
+
+	Ergebnis ausgeben
+
+
